@@ -1,7 +1,7 @@
 ---
-title: "" Cemetery lifespan project
-author: "" Matthew lopez
-date: "" 10/08/2026
+title: ""
+author: ""
+date: "" 
 format:
   pdf:
     pdf-engine: xelatex
