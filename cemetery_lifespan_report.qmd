@@ -1,7 +1,7 @@
 ---
-title: ""
-author: ""
-date: ""
+title: "" Cemetery lifespan project
+author: "" Matthew lopez
+date: "" 10/08/2026
 format:
   pdf:
     pdf-engine: xelatex
@@ -102,7 +102,7 @@ csl: newphytologist.csl
 % Title and author line
 \noindent
 {\fontsize{23}{27}\selectfont
-\textbf{Lifespan is Effected by Sex and Marital Status}\par}
+\textbf{Lifespan is Effected by Military Status}\par}
 
 \vspace{0.12in}
 
@@ -126,30 +126,29 @@ Matthew Lopez\textsuperscript{1,*}
 
     \textbf{Purpose:}
     This project describes lifespan patterns in cemetery records and examines
-    variation by sex and marital status. [you can do military service of males or pre- and post- a particular year - default 1930]
+    variation by sex and military service of males.
 
     \vspace{3pt}
 
     \textbf{Methods:}
-    Recorded available birth and death information from gravestones
+    The data was collected at sunset hill cemetery in valdosta, georgia on October 8th, 2026. Went during a sunny warm day at 2:30pm. The data was sampleed from the middle of the cemetery. Recorded available birth and death information from gravestones
     and classified selected characteristics using evidence visible on the
-    stones and in burial arrangements. [Go into much greater detail in the methods section]
+    stones and in burial arrangements. The data was also spread between seperate families to prevent over-representing one family.
 
     \vspace{3pt}
 
     \textbf{Results:}
-    [Summarize the principal patterns in the class data.]
+    The principal patterns in the class data demonstrated a correlation in shorter life span of people that served in the military compared to those that did not. [Summarize the principal patterns in the class data.]
 
     \vspace{3pt}
 
     \textbf{Conclusions:}
-    [State what the observed patterns suggest and note limitations. Distinguish
-    lifespan in this cemetery sample from population life expectancy.]
+    The observed patterns suggest that people that served in the military lived shorter lifes than those that did not serve in the military. 
 
     \vspace{3pt}
 
     \textbf{Keywords:}
-    cemetery records; lifespan; survivorship; marital status; historical demography
+    cemetery records; lifespan; survivorship; historical demography
   \end{minipage}%
 }
 
@@ -184,7 +183,7 @@ Cemetery records provide individual birth and death dates that can be used to de
 
 # Hypotheses
 
-3. **Military service and lifespan:** I hypothesize that male records marked as military service will show [greater / lower / similar] lifespan than records not marked for service because [brief rationale].
+3. **Military service and lifespan:** I hypothesize that male records marked as military service will show lower lifespan than records not marked for service because [brief rationale].
 
 
 # Methods
@@ -194,31 +193,29 @@ Complete the prompts below. Replace bracketed text with details from the field v
 ## Field site and sampling
 
 - **Where did you go?** Sunset hill cemetery, Valdosta, Georgia
-- **What date and time of day did you collect records?** 10/08/26, 2:15/4:15, and  [Date, start/end time, and weather or visibility conditions if relevant.]
-- **What part of the cemetery did you sample?** [Section, row, plot area, or a map-based description.]
-- **How did you choose graves?** [Describe whether sampling was systematic, opportunistic, or based on another rule.]
-- **How did you handle nearby graves and family plots?** [Explain whether neighboring graves were recorded to capture families, or whether sampling moved between plots to avoid over-representing one family.]
+- **What date and time of day did you collect records?** 10/08/26, 2:15/4:15,
+- **What part of the cemetery did you sample?** The middle of the cemetery
+- **How did you choose graves?** The sampling was at random and graves that showed military service were prefered.
+- **How did you handle nearby graves and family plots?** We distanced the graves we chose to avoid over repersenting one singlular family. 
 
 ## Recorded information and variable definitions
 
-- **What information did you record from each marker?** [For example: name, birth date or year, death date or year, age at death, sex/gender as recorded or inferred, marriage indicator, military indicator, and inscription details.]
-- **How was lifespan calculated?** [State whether age was transcribed from the marker or calculated as death year minus birth year, and how partial dates were handled.]
-- **How did you determine marital status?** [Explain evidence such as “wife,” “husband,” spouse names, or paired markers. If a joint grave was used as evidence, state that this is an inference and describe the rule.]
-- **How did you determine military service?** [Describe explicit evidence such as service branch, rank, unit, or veteran symbols. Explain how uncertain cases were coded.]
-- **How did you determine sex or gender?** [Describe what was explicitly recorded and what, if anything, was inferred. Do not present an inference as a confirmed identity.]
-- **How were missing, illegible, or ambiguous records handled?** [State exclusion and coding rules.]
+- **What information did you record from each marker?** Name, date of birth, year of death, gender, and military indicators.
+- **How was lifespan calculated?** Age was transcribed from the marker and calculated as death year minus birth year
+- **How did you determine marital status?** Marital status was determined by markings on the gravestones that said married.
+- **How did you determine military service?** service branch, rank, unit, or veteran symbols.
+- **How did you determine sex or gender?** The Gender was infered.
+- **How were missing, illegible, or ambiguous records handled?** We skipped over these since there was plenty of gravestones.
 
 ## Dataset and analysis
 
-- **How many records were collected by you?** [n = ]
-- **How many records were included in the final analysis?** [n = ; explain exclusions.]
-- **Were records aggregated with the class dataset?** [Yes / no. If yes, describe how duplicates and conflicting entries were checked.]
-- **What summaries or plots were produced?** [Describe group summaries and empirical survivorship curves, including how categories were defined.]
-- **What are the limits of the sample?** [Discuss marker preservation, incomplete dates, cemetery selection, sampling strategy, and any other relevant limitations.]
+- **How many records were collected by you?** n = 50
+- **How many records were included in the final analysis?** n = 50
+- **Were records aggregated with the class dataset?**  yes they were all put together in one big data collection.
+- **What summaries or plots were produced?**   By looking at empirical survivorship curves, we summarized that the dip in the life span of males was correlated to military service. 
+- **What are the limits of the sample?** Most of the people that died in WW II had a mass burial. This means that the veterns in sunset hill probably died due to different reasons other than the war.
 
 # Results
-
-The summary table in @fig-summary shows substantial differences in recorded lifespan by sex in this sample. Males had a mean lifespan of 59.0 years (SD = 20.4; n = 3), compared with 29.7 years (SD = 7.1; n = 3) for females. The marital-status breakdown is more tentative because each subgroup contains only one or two records. Among males, the two married individuals had a mean lifespan of 70.5 years (SD = 6.4), while the one unmarried individual lived 36 years. Among females, the one married individual lived 36 years, compared with a mean of 26.5 years (SD = 6.4) for the two unmarried individuals. These small subgroup sizes make the values descriptive; they do not support broad conclusions about sex or marital status.
 
 ![Summary of lifespan of males by military status.](lifespan_tables/sex_military.png){#fig-summary width=90% fig-pos="t" fig-env="figure*"}
 
